@@ -21,4 +21,4 @@ Install (goo.gl/cE1zbp) and unzip on Windows.
 -	The program was tested in Windows 8 and Linux.
 
 ## Version
-3.2.7
+1.0
